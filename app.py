@@ -122,4 +122,3 @@ else:
     st.markdown(f"**Rata-rata skor KPI (μ)**: {mean:.2f}")
     st.markdown(f"**Standard deviasi (σ)**: {std:.2f}")
     st.markdown(f"**Skewness distribusi (seluruh data)**: {skew_val:.2f}")
-
